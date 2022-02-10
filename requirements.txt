@@ -2,7 +2,6 @@
 altair==4.1.0
 altgraph==0.17.2
 anaconda-client==1.2.2
-anaconda-project==0.8.2
 asgiref==3.4.1
 asn1crypto==0.24.0
 astor==0.8.1

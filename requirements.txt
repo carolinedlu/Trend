@@ -181,8 +181,6 @@ pytickersymbols==1.1.14
 pytz==2018.4
 pytz-deprecation-shim==0.1.0.post0
 PyWavelets==0.5.2
-pywin32==223
-pywin32-ctypes==0.2.0
 pywinpty==0.5.1
 PyYAML==5.3.1
 pyzmq==17.0.0

@@ -106,7 +106,7 @@ MarkupSafe==2.0.1
 matplotlib==2.2.2
 mccabe==0.6.1
 mistune==0.8.3
-mkl-fft==1.0.0
+mkl-fft==1.3.1
 mkl-random==1.0.1
 monthly-returns-heatmap==0.0.11
 more-itertools==4.1.0

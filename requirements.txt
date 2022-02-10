@@ -6,7 +6,6 @@ asgiref==3.4.1
 asn1crypto==0.24.0
 astor==0.8.1
 astroid==1.6.3
-astropy==3.0.2
 atomicwrites==1.4.0
 attrs==18.1.0
 Babel==2.5.3

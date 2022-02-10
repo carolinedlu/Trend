@@ -7,6 +7,9 @@ import streamlit as st
 import monthly_returns_heatmap as mrh
 import plotly.graph_objects as go
 
+st.set_page_config(
+        page_title='Trend Following',layout='wide')
+
 st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
 st.sidebar.image("trendlogo.png")
 

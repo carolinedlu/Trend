@@ -105,7 +105,6 @@ lxml==4.6.3
 MarkupSafe==2.0.1
 matplotlib==2.2.2
 mccabe==0.6.1
-menuinst==1.4.14
 mistune==0.8.3
 mkl-fft==1.0.0
 mkl-random==1.0.1
